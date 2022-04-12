@@ -57,11 +57,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-I hit a couple snags on this project;
-
-- 1. I initially set up the width of the card element in such a way that would make it jump around the page whenever it was refreshed. I fixed this by setting the max-width to 50vw and adjusting the margin accordingly.
-
-- 2. This is the first time since graduating the bootcamp that I played with Javascript in any meaningful way so I was a little bit rusty and had to do some research. I got everything up and running though with only a mild bruising of my ego.
+I initially set up the width of the card element in such a way that would make it jump around the page whenever it was refreshed. I fixed this by setting the max-width to 50vw and adjusting the margin accordingly.
 
 ## Author
 
