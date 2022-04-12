@@ -43,6 +43,28 @@ body {
   color: hsl(193, 38%, 86%);
 }
 
+/* @media (min-width: 1280px) {
+  .mobileImg {
+    display: none;
+    margin: auto;
+  }
+  .desktopImg {
+    display: block;
+    margin: auto;
+  }
+} */
+
+@media (min-width: 768px) {
+  .mobileImg {
+    display: block;
+    margin: auto;
+  }
+  /* .desktopImg {
+    display: none;
+    margin: auto;
+  } */
+}
+
 .btn {
   width: 64px;
   height: 64px;
